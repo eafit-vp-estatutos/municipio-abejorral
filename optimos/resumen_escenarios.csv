@@ -1,0 +1,4 @@
+nombre_nivel,scenario_id,ratio_real_25,mejora_pct,cobertura_tarifa_esc,tarifa_prom_esc,recaudo_millones
+Agresivo,77,1.208,20.8,100,11.11,28208.1
+Moderado,38,1.108,10.8,100,10.29,25873.3
+Conservador,324,1.006,0.6,100,9.28,23501.7
